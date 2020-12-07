@@ -1,20 +1,29 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
+ [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+## Description: 
+Using this web app the user can keep track of their own finances by adding debts or income. The app has the functionality to save to a mongoose database and also saves when offline with the help of indexedDB. 
 
-Web app that tracks a budget. One can add income and expenses. 
+The app is deployed at https://budgettrackermorales.herokuapp.com/
 
-## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
+  
+  #Table of Contents
+  1. [Installation](##installation)
+  2. [Usage](##usage)
+  3. [License](##license)
+  4. [Contributing](##contributing)
+  5. [Test](##test)
+  6. [Questions](##questions)
+  
+  ##Installation: To install simply download files. 
 
-## Business Context
+  ##Usage: To use, navigate to the directory of the files and run "node index.js". [demo here](https://drive.google.com/file/d/1Oy814QUIo5eIlAxBZfzKwpflWVJM3zFE/view)
 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+  #License: This software is using the creative common license. 
 
+  ##Contributing: If you'd like to contribute see my contact information.
 
-## Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+  ##Test: Check indexedDB for data. 
 
-- - -
+  ##Questions: Email would be the best way to contact me. Thank you!;
+  [github](https://github.com/aminadabm93)
+  [email](aminadabm93@gmail.com) 
