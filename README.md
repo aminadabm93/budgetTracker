@@ -6,7 +6,7 @@ Using this web app the user can keep track of their own finances by adding debts
 The app is deployed at https://budgettrackermorales.herokuapp.com/
 
   
-  #Table of Contents
+  ## Table of Contents
   1. [Installation](##installation)
   2. [Usage](##usage)
   3. [License](##license)
@@ -14,16 +14,22 @@ The app is deployed at https://budgettrackermorales.herokuapp.com/
   5. [Test](##test)
   6. [Questions](##questions)
   
-  ##Installation: To install simply download files. 
+  ## Installation: 
+  To install simply download files. 
 
-  ##Usage: To use, navigate to the directory of the files and run "node index.js". [demo here](https://drive.google.com/file/d/1Oy814QUIo5eIlAxBZfzKwpflWVJM3zFE/view)
+  ## Usage: 
+  To use, navigate to the directory of the files and run "node index.js". [demo here](https://drive.google.com/file/d/1Oy814QUIo5eIlAxBZfzKwpflWVJM3zFE/view)
 
-  #License: This software is using the creative common license. 
+  ## License: 
+  This software is using the creative common license. 
 
-  ##Contributing: If you'd like to contribute see my contact information.
+  ## Contributing: 
+  If you'd like to contribute see my contact information.
 
-  ##Test: Check indexedDB for data. 
+  ## Test: 
+  Check indexedDB for data. 
 
-  ##Questions: Email would be the best way to contact me. Thank you!;
+  ## Questions: 
+  Email would be the best way to contact me. Thank you!;
   [github](https://github.com/aminadabm93)
   [email](aminadabm93@gmail.com) 
